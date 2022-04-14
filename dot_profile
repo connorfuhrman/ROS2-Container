@@ -1,0 +1,8 @@
+
+# Environmental variables
+export PS1="[ROS Galactic] > "
+export SCREENRC="/.screenrc"
+
+
+# Aliases for GUI apps to be terminal-only
+alias emacs="emacs -nw"
