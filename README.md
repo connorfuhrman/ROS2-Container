@@ -1,6 +1,6 @@
 # ROS Development Container
 
-This repository houses some conveniences around [the OSFR ROS container](https://hub.docker.com/r/osrf/ros/).
+This repository houses some conveniences around [the OSRF ROS container](https://hub.docker.com/r/osrf/ros/).
 
 # Features
 ## GUI Applications
